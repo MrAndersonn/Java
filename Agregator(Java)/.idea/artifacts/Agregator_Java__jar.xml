@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Agregator(Java):jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Agregator_Java__jar</output-path>
+    <root id="archive" name="Agregator(Java).jar">
+      <element id="module-output" name="Agregator(Java)" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.8.2/jsoup-1.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
